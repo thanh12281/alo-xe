@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alo Xe</string>
+
+    <string name="home_title">Alo Xe</string>
+    <string name="home_subtitle">Nhận thông báo đặt xe trong nhóm Zalo nhanh hơn</string>
+    <string name="home_status_ok">Đang hoạt động</string>
+    <string name="home_status_not_ready">Chưa sẵn sàng — cần cấp quyền</string>
+    <string name="btn_permissions">Cấp quyền &amp; cài đặt máy</string>
+    <string name="btn_keywords">Từ khóa nhận cuốc</string>
+    <string name="btn_groups">Chọn nhóm theo dõi</string>
+    <string name="btn_history">Lịch sử tin đã bắt</string>
+
+    <string name="perm_title">Cấp quyền &amp; cài đặt máy</string>
+    <string name="perm_notif_title">1. Quyền đọc thông báo</string>
+    <string name="perm_notif_desc">Bắt buộc, để app thấy được thông báo Zalo khi nó hiện ra.</string>
+    <string name="perm_notif_btn">Mở cài đặt quyền thông báo</string>
+    <string name="perm_notif_status_on">Đã cấp quyền</string>
+    <string name="perm_notif_status_off">Chưa cấp quyền</string>
+    <string name="perm_battery_title">2. Tắt tối ưu hóa pin</string>
+    <string name="perm_battery_desc">Nếu không tắt, máy có thể trì hoãn hoặc chặn app chạy nền, làm trễ hoặc mất thông báo.</string>
+    <string name="perm_battery_btn">Mở cài đặt pin</string>
+    <string name="perm_battery_status_on">Đã bỏ giới hạn pin</string>
+    <string name="perm_battery_status_off">Vẫn đang bị giới hạn pin</string>
+    <string name="perm_autostart_title">3. Bật \"Khởi động cùng\" (Xiaomi / Oppo / Vivo)</string>
+    <string name="perm_autostart_desc">Nếu máy bạn là Xiaomi, Oppo, Vivo, Huawei: vào Cài đặt điện thoại → Ứng dụng → Alo Xe → bật \"Tự khởi động\" / \"Autostart\". Các hãng này hay tự tắt app chạy nền kể cả khi đã làm bước 2.</string>
+
+    <string name="kw_title">Từ khóa nhận cuốc</string>
+    <string name="kw_include_label">Từ khóa NHẬN (mỗi dòng một từ)</string>
+    <string name="kw_exclude_label">Từ khóa LOẠI TRỪ (mỗi dòng một từ)</string>
+    <string name="kw_save">Lưu</string>
+    <string name="kw_saved">Đã lưu</string>
+
+    <string name="groups_title">Chọn nhóm theo dõi</string>
+    <string name="groups_empty">Chưa thấy nhóm Zalo nào. Hãy chờ có tin nhắn mới trong nhóm, hoặc kiểm tra lại quyền đọc thông báo.</string>
+    <string name="groups_hint">Bật nhóm bạn muốn theo dõi. Nếu không bật nhóm nào, app sẽ theo dõi TẤT CẢ nhóm Zalo.</string>
+
+    <string name="history_title">Lịch sử tin đã bắt</string>
+    <string name="history_empty">Chưa có tin nào khớp từ khóa.</string>
+
+    <string name="alert_accept">Nhận chuyến</string>
+    <string name="alert_dismiss">Bỏ qua</string>
+    <string name="alert_zalo_missing">Không tìm thấy app Zalo trên máy</string>
+</resources>
